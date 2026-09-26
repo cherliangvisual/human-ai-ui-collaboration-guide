@@ -2,7 +2,7 @@
   <a href="../README.md">仓库首页</a> · <a href="../en/README.md">English</a> · <strong>简体中文</strong>
 </p>
 
-# 把这份指南交给 AI Agent，避开那些会造成数小时返工的 UI 错误
+# 把这份指南交给 AI Agent，避开那些会造成数小时返工的 UI 设计错误
 
 *Vibe Coding 进行得很快，UI 错误叠加得更快。*
 
@@ -39,13 +39,14 @@
 
 ```text
 human-ai-ui-collaboration-guide/
-├── README.md                       英文仓库入口
-├── README.zh-CN.md                 简体中文仓库入口
+├── README.md                       双语仓库总入口
 ├── en/
+│   ├── README.md                   英文使用说明
 │   ├── GUIDE.md                    英文指南与提示词
 │   ├── CHANGELOG.md                英文版本记录
 │   └── COPYRIGHT-AND-PERMISSIONS.md
 └── zh-CN/
+    ├── README.md                   中文使用说明
     ├── GUIDE.md                    中文指南与提示词
     ├── CHANGELOG.md                中文版本记录
     └── COPYRIGHT-AND-PERMISSIONS.md

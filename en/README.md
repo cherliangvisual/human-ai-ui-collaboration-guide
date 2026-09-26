@@ -4,7 +4,7 @@
 
 # Feed This to Your AI Agent. Avoid the UI Mistakes That Cause Hours of Rework.
 
-### 把这份指南交给 AI Agent，避开那些会造成数小时返工的 UI 错误
+### 把这份指南交给 AI Agent，避开那些会造成数小时返工的 UI 设计错误
 
 *Vibe coding moves quickly. UI mistakes compound even faster.*
 
@@ -41,13 +41,14 @@ The guide turns lessons from real UI failures into practical safeguards: avoidin
 
 ```text
 human-ai-ui-collaboration-guide/
-├── README.md                       English repository entrance
-├── README.zh-CN.md                 简体中文仓库入口
+├── README.md                       Bilingual repository entrance
 ├── en/
+│   ├── README.md                   English instructions
 │   ├── GUIDE.md                    English guide and prompts
 │   ├── CHANGELOG.md                English version history
 │   └── COPYRIGHT-AND-PERMISSIONS.md
 └── zh-CN/
+    ├── README.md                   中文使用说明
     ├── GUIDE.md                    中文指南与提示词
     ├── CHANGELOG.md                中文版本记录
     └── COPYRIGHT-AND-PERMISSIONS.md
