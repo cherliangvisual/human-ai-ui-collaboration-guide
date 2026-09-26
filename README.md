@@ -4,7 +4,7 @@
 
 # Feed This to Your AI Agent. Avoid the UI Mistakes That Cause Hours of Rework.
 
-### 把这份指南交给 AI Agent，避开那些会造成数小时返工的 UI 错误
+### 把这份指南交给 AI Agent，避开那些会造成数小时返工的 UI 设计错误
 
 *Vibe coding moves quickly. UI mistakes compound even faster.*
 
