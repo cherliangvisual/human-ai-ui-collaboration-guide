@@ -16,7 +16,7 @@ The guide turns lessons from real UI failures into practical safeguards: avoidin
 
 **[Read the English guide](GUIDE.md)** · **[阅读简体中文版](../zh-CN/README.md)**
 
-**[Download the English package (.zip)](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-EN.zip)** · [下载简体中文包](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9CUI%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-v1.0.0-zh-CN.zip)
+**[Download the English package (.zip)](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-EN.zip)** · [下载简体中文包](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-zh-CN.zip)
 
 ## One upload per task window
 
@@ -97,7 +97,7 @@ The two language packages are independent. English readers do not need to naviga
 | Edition | Independent publication package |
 |---|---|
 | English | [Download the English ZIP](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-EN.zip) |
-| Simplified Chinese | [Download the Simplified Chinese ZIP](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9CUI%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-v1.0.0-zh-CN.zip) |
+| Simplified Chinese | [Download the Simplified Chinese ZIP](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-zh-CN.zip) |
 
 ## A practical workflow
 

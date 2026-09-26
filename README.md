@@ -24,7 +24,7 @@ The English ZIP contains only the English README, guide, changelog, and permissi
 ### 简体中文
 
 - **[阅读简体中文使用说明](zh-CN/README.md)**
-- **[一键下载独立简体中文包（.zip）](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9CUI%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-v1.0.0-zh-CN.zip)**
+- **[一键下载独立简体中文包（.zip）](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-zh-CN.zip)**
 
 简体中文 ZIP 只包含中文 README、完整指南、版本记录与版权说明。
 

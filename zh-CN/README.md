@@ -14,7 +14,7 @@
 
 **[阅读中文完整指南](GUIDE.md)** · **[Read in English](../en/README.md)**
 
-**[一键下载简体中文包（.zip）](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9CUI%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-v1.0.0-zh-CN.zip)** · [Download the English package](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-EN.zip)
+**[一键下载简体中文包（.zip）](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-zh-CN.zip)** · [Download the English package](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-EN.zip)
 
 ## 一个任务窗口，只需交一次
 
@@ -94,7 +94,7 @@ Human-AI-UI-Collaboration-Guide-v1.0.0-EN/
 
 | 版本 | 独立出版包 |
 |---|---|
-| 简体中文 | [下载简体中文 ZIP](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9CUI%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C%E9%81%BF%E9%9B%B7%E6%8C%87%E5%8D%97-v1.0.0-zh-CN.zip) |
+| 简体中文 | [下载简体中文 ZIP](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-zh-CN.zip) |
 | English | [下载英文 ZIP](https://github.com/cherliangvisual/human-ai-ui-collaboration-guide/releases/download/v1.0.0/Human-AI-UI-Collaboration-Guide-v1.0.0-EN.zip) |
 
 ## 推荐使用流程
